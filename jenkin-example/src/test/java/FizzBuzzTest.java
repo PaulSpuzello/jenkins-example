@@ -9,6 +9,6 @@ class FizzBuzzTest {
 	@Test
 	public void testFizz() {
 		String fizzBuzz = fB.play(3);
-		Assertions.assertEquals(fizzBuzz, "Fiz");
+		Assertions.assertEquals(fizzBuzz, "Fize");
 	}
 }
